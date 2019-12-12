@@ -43,3 +43,6 @@ I have included with my application data-compounder some very neat functions to 
 
 # '_dl_x86_cpu_features.c'
 This file was made as a workaround to the issue where I could not import the math library because I was using the sin and cos functions. This file can be found in some folders under the ./sdk/app path.
+
+# Cross Compiling
+You can see at the end of the pdf document in this directory how to cross compile from x86 to arm.
