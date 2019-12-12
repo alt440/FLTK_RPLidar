@@ -19,6 +19,7 @@ Example:
 
 -The compiled files will appear in the folder ./output/Linux/Release
 
+I also added the manual for RPLidar as a pdf file in this folder.
 
 # FLTK
 This project only required the fltk package, which can be downloaded using:
